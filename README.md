@@ -1,6 +1,3 @@
-[![GitHub followers](https://img.shields.io/github/followers/mehmetoztemel?style=social)](https://github.com/ayselmehmetzade?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/mehmetoztemel?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=mehmetoztemel.visitor-badge)](https://GitHub.com/mehmetoztemel/StrapDown.js/stargazers/)
 ### Hi there :wave:
 I'm Mehmet!
 
