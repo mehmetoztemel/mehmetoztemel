@@ -1,16 +1,17 @@
-### Hi there 👋
+[![GitHub followers](https://img.shields.io/github/followers/mehmetoztemel?style=social)](https://github.com/ayselmehmetzade?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/mehmetoztemel?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=mehmetoztemel.visitor-badge)](https://GitHub.com/mehmetoztemel/StrapDown.js/stargazers/)
+### Hi there :wave:
+I'm Mehmet!
 
-<!--
-**mehmetoztemel/mehmetoztemel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact me! 
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/mehmet-öztemel-125466168/" target="_blank" rel="nofollow"><img alt="Mehmet's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mehmet-oztemel@hotmail.com" target="_blank" rel="nofollow"><img alt="Mehmet's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Technologies & Tools 
+<img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/.NETCore-black?style=for-the-badge&logo=.net&logoColor=white%22%3E"></img>
+<img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-black?style=for-the-badge&logo=microsoft-sql-server&logoColor=white%22%3E"></img>
